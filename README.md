@@ -1,6 +1,6 @@
 # Archiver
 
-This repository is the accompaniment to the article **********.
+This repository is the accompaniment to the article [How I archived eight years of my life with JavaScript](https://medium.com/@MichaelSmartDevelops/how-i-archived-eight-years-of-my-life-with-javascript-part-1-3e7c67bf1fc3).
 
 **Never** under any circumstances clone a repo, put your Facebook credentials into it, then run it.
 
